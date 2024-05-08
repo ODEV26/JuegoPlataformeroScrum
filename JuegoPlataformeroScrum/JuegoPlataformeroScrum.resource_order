@@ -1,0 +1,8 @@
+{
+  "FolderOrderSettings":[],
+  "ResourceOrderSettings":[
+    {"name":"sprJugadorCorriendo","order":2,"path":"sprites/sprJugadorCorriendo/sprJugadorCorriendo.yy",},
+    {"name":"sprPiso","order":1,"path":"sprites/sprPiso/sprPiso.yy",},
+    {"name":"sprJugadorSaltando","order":3,"path":"sprites/sprJugadorSaltando/sprJugadorSaltando.yy",},
+  ],
+}
